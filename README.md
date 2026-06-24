@@ -1,4 +1,4 @@
-### Hi, I'm Amanda!
+# Hi, I'm Amanda!
 
 I'm a backend developer focused on Java, Spring Boot, SQL and REST APIs.
 
@@ -6,11 +6,11 @@ I develop backend applications using Java, Spring Boot and MySQL, applying objec
 
 I'm interested in building clean, organized and efficient solutions, while continuously improving my skills in backend development.
 
-### Technologies and Tools
+# Technologies and Tools
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,eclipse,git,github" height="50" /> </p>
 
-### Main Focus
+# Main Focus
 
 - Backend development
 - REST APIs
@@ -19,7 +19,7 @@ I'm interested in building clean, organized and efficient solutions, while conti
 - SQL queries
 - Version control with Git and GitHub
 
-### Contacts:
+# Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-m-silva-ba0958378) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=amandams.ctt@gmail.com)
