@@ -8,9 +8,9 @@ I have been directing my studies and projects toward API development, database i
 
 Currently, I am improving my knowledge through practical projects, with the goal of strengthening my career in technology and contributing to efficient, reliable, and meaningful solutions.
 
-## 𑄝੭ Languages & Technologies
+## 𑄝੭ Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,eclipse,git,github" height="55" /> </p>
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js" /> </div>
 
 ## 𑄝੭ Main Focus
 
